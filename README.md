@@ -1,6 +1,6 @@
 # Dashboard Template Project
 
-These projects are complete HTML, CSS and Js implementations coded entirely by me.   
+This project are complete HTML, CSS and Js implementations coded entirely by me.   
 - **[View Project](https://sayyid-abbas.github.io/dashboard-project/)**
 
 ---
